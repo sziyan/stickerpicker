@@ -1,6 +1,10 @@
 {
   "packs": [
-    "Anya_x_Family_by_Izzwerg.json"
+    "Anya_x_Family_by_Izzwerg.json",
+    "TiktokEmojis.json",
+    "HatersHate.json",
+    "baobeigz.json",
+    "zycollection.json"
   ],
   "homeserver_url": "https://seah.homes"
 }
